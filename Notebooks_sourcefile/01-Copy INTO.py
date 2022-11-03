@@ -1,5 +1,3 @@
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC Create a sample database, a sample table, load some data 
 
